@@ -1,0 +1,164 @@
+Fichier TraceWin: /Users/plyalyut/Documents/GitHub/optimizer/mint/pip2/TW_PIP2IT_PAVLO_08032020/PIP2IT_Feb2019.dat
+Particle name: H-
+Particle mass: 939.294 MeV
+Particle charge: -1
+Beam intensity : 5 mA
+Input energy: 2.12267 MeV
+Output energy: 11.513 MeV
+
+#####	Hor_slite	Pos(m)= 0.3	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 0.3	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 0.3	Length(m)= 0.1	Gradient(T/m)= 12.2	Int_gradient(T)= 1.22
+#####	Hor_slite	Pos(m)= 0.47	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 0.47	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 0.47	Length(m)= 0.1	Gradient(T/m)= -10.88	Int_gradient(T)= -1.088
+#####	THIN_STEERING	Pos(m)= 0.705	FieldX(T.m)= 0	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 0.7678	Ouv(m)= 0.0098
+#####	Ver_slite	Pos(m)= 0.7678	Ouv(m)= 0.01
+#####	Hor_slite	Pos(m)= 0.7734	Ouv(m)= 0.0098
+#####	Ver_slite	Pos(m)= 0.7734	Ouv(m)= 0.0098
+#####	Hor_slite	Pos(m)= 0.779	Ouv(m)= 0.0145
+#####	Ver_slite	Pos(m)= 0.779	Ouv(m)= 0.0145
+#####	Hor_slite	Pos(m)= 0.7846	Ouv(m)= 0.0145
+#####	Ver_slite	Pos(m)= 0.7846	Ouv(m)= 0.0145
+#####	FIELD_MAP_CAV	Pos(m)= 0.8786	Length(m)= 0.24	Field(MV)= 0.065163	Input_cavity_phase(°)= 10.8077	Synch_phase(°)= -90.0001	Energy_gain(MeV)= -5.81464e-08	Coef_k= 0.065
+#####	Hor_slite	Pos(m)= 1.2	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 1.2	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 1.2	Length(m)= 0.1	Gradient(T/m)= 7.75	Int_gradient(T)= 0.775
+#####	Hor_slite	Pos(m)= 1.37	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 1.37	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 1.37	Length(m)= 0.1	Gradient(T/m)= -6.05	Int_gradient(T)= -0.605
+#####	THIN_STEERING	Pos(m)= 1.605	FieldX(T.m)= 0	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 2.1427	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.1427	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 2.1483	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.1483	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 2.1539	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.1539	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 2.1595	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.1595	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 2.305	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.305	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 2.305	Length(m)= 0.05	Gradient(T/m)= 10.7	Int_gradient(T)= 0.535
+#####	Hor_slite	Pos(m)= 2.425	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.425	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 2.425	Length(m)= 0.1	Gradient(T/m)= -9.82	Int_gradient(T)= -0.982
+#####	Hor_slite	Pos(m)= 2.595	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 2.595	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 2.595	Length(m)= 0.05	Gradient(T/m)= 10.7	Int_gradient(T)= 0.535
+#####	THIN_STEERING	Pos(m)= 2.7775	FieldX(T.m)= 0.0004	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 2.8451	Ouv(m)= 0.02
+#####	Ver_slite	Pos(m)= 2.8451	Ouv(m)= 0.00646
+#####	CHOPPER	Pos(m)= 2.8451	Length(m)= 0.5	Voltage(MV)= 0
+#####	Hor_slite	Pos(m)= 3.48	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 3.48	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 3.48	Length(m)= 0.05	Gradient(T/m)= 12.9	Int_gradient(T)= 0.645
+#####	QUAD	Pos(m)= 3.6	Length(m)= 0.1	Gradient(T/m)= -11.6	Int_gradient(T)= -1.16
+#####	Hor_slite	Pos(m)= 3.77	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 3.77	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 3.77	Length(m)= 0.05	Gradient(T/m)= 12.9	Int_gradient(T)= 0.645
+#####	Hor_slite	Pos(m)= 3.87	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 3.87	Ouv(m)= 0.015
+#####	THIN_STEERING	Pos(m)= 3.9525	FieldX(T.m)= 0.00023	FieldY(T.m)= 0
+#####	FIELD_MAP_CAV	Pos(m)= 3.9529	Length(m)= 0.24	Field(MV)= 0.0501418	Input_cavity_phase(°)= 10.876	Synch_phase(°)= -89.9965	Energy_gain(MeV)= -5.5475e-07	Coef_k= 0.05
+#####	Hor_slite	Pos(m)= 4.6547	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 4.6547	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 4.6547	Length(m)= 0.05	Gradient(T/m)= 13.3	Int_gradient(T)= 0.665
+#####	QUAD	Pos(m)= 4.7747	Length(m)= 0.1	Gradient(T/m)= -11.6	Int_gradient(T)= -1.16
+#####	Hor_slite	Pos(m)= 4.9447	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 4.9447	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 4.9447	Length(m)= 0.05	Gradient(T/m)= 13.3	Int_gradient(T)= 0.665
+#####	THIN_STEERING	Pos(m)= 5.0512	FieldX(T.m)= 0	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 5.0512	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 5.0512	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 5.0512	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 5.0512	Ouv(m)= 0.015
+#####	THIN_STEERING	Pos(m)= 5.1272	FieldX(T.m)= -0.00041	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 5.2	Ouv(m)= 0.02
+#####	Ver_slite	Pos(m)= 5.2	Ouv(m)= 0.00646
+#####	CHOPPER	Pos(m)= 5.2	Length(m)= 0.5	Voltage(MV)= 0
+#####	Hor_slite	Pos(m)= 5.8297	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 5.8297	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 5.8297	Length(m)= 0.05	Gradient(T/m)= 12.7	Int_gradient(T)= 0.635
+#####	QUAD	Pos(m)= 5.9497	Length(m)= 0.1	Gradient(T/m)= -11.09	Int_gradient(T)= -1.109
+#####	Hor_slite	Pos(m)= 6.1197	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.1197	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 6.1197	Length(m)= 0.05	Gradient(T/m)= 12.7	Int_gradient(T)= 0.635
+#####	Hor_slite	Pos(m)= 6.3022	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.3022	Ouv(m)= 0.015
+#####	THIN_STEERING	Pos(m)= 6.3022	FieldX(T.m)= 0.000244	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 6.3022	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.3022	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 6.84274	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.84274	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 6.84834	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.84834	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 6.85394	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.85394	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 6.85954	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 6.85954	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.005	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.005	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 7.005	Length(m)= 0.05	Gradient(T/m)= 13.88	Int_gradient(T)= 0.694
+#####	QUAD	Pos(m)= 7.125	Length(m)= 0.1	Gradient(T/m)= -12.24	Int_gradient(T)= -1.224
+#####	Hor_slite	Pos(m)= 7.295	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.295	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 7.295	Length(m)= 0.05	Gradient(T/m)= 13.88	Int_gradient(T)= 0.694
+#####	THIN_STEERING	Pos(m)= 7.4775	FieldX(T.m)= -0.00092	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 7.4775	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.4775	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.4775	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.4775	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.54774	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.54774	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.55334	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.55334	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.55894	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.55894	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.56454	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 7.56454	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 7.77789	Ouv(m)= 0.005
+#####	Ver_slite	Pos(m)= 7.77789	Ouv(m)= 0.005
+#####	Hor_slite	Pos(m)= 7.97789	Ouv(m)= 0.005
+#####	Ver_slite	Pos(m)= 7.97789	Ouv(m)= 0.005
+#####	Hor_slite	Pos(m)= 8.18	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.18	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 8.18	Length(m)= 0.05	Gradient(T/m)= 13.4	Int_gradient(T)= 0.67
+#####	QUAD	Pos(m)= 8.3	Length(m)= 0.1	Gradient(T/m)= -12	Int_gradient(T)= -1.2
+#####	Hor_slite	Pos(m)= 8.47	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.47	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 8.47	Length(m)= 0.05	Gradient(T/m)= 13.4	Int_gradient(T)= 0.67
+#####	THIN_STEERING	Pos(m)= 8.6525	FieldX(T.m)= 2e-05	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 8.6525	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.6525	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 8.6525	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.6525	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 8.7235	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.7235	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 8.7291	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.7291	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 8.7347	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.7347	Ouv(m)= 0.015
+#####	Hor_slite	Pos(m)= 8.7403	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 8.7403	Ouv(m)= 0.015
+#####	FIELD_MAP_CAV	Pos(m)= 9.045	Length(m)= 0.24	Field(MV)= 0.0691704	Input_cavity_phase(°)= 10.7885	Synch_phase(°)= -89.9468	Energy_gain(MeV)= -1.0205e-06	Coef_k= 0.069
+#####	Hor_slite	Pos(m)= 9.355	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 9.355	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 9.355	Length(m)= 0.05	Gradient(T/m)= 12.75	Int_gradient(T)= 0.6375
+#####	QUAD	Pos(m)= 9.475	Length(m)= 0.1	Gradient(T/m)= -11.55	Int_gradient(T)= -1.155
+#####	Hor_slite	Pos(m)= 9.645	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 9.645	Ouv(m)= 0.015
+#####	QUAD	Pos(m)= 9.645	Length(m)= 0.05	Gradient(T/m)= 12.75	Int_gradient(T)= 0.6375
+#####	Hor_slite	Pos(m)= 9.7515	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 9.7515	Ouv(m)= 0.015
+#####	THIN_STEERING	Pos(m)= 9.7515	FieldX(T.m)= 1.7e-05	FieldY(T.m)= 0
+#####	Hor_slite	Pos(m)= 9.7515	Ouv(m)= 0.015
+#####	Ver_slite	Pos(m)= 9.7515	Ouv(m)= 0.015
+#####	FIELD_MAP_CAV	Pos(m)= 11.2517	Length(m)= 0.25	Field(MV)= 0.274456	Input_cavity_phase(°)= -134.293	Synch_phase(°)= -40.0471	Energy_gain(MeV)= 0.210243	Coef_k= 0.45
+#####	FIELD_MAP_CAV	Pos(m)= 11.9375	Length(m)= 0.25	Field(MV)= 0.476711	Input_cavity_phase(°)= -113.109	Synch_phase(°)= -37.0083	Energy_gain(MeV)= 0.380721	Coef_k= 0.68
+#####	FIELD_MAP_CAV	Pos(m)= 12.6233	Length(m)= 0.25	Field(MV)= 0.693278	Input_cavity_phase(°)= -83.7477	Synch_phase(°)= -34.9631	Energy_gain(MeV)= 0.567907	Coef_k= 0.85
+#####	FIELD_MAP_CAV	Pos(m)= 13.3091	Length(m)= 0.25	Field(MV)= 1.30042	Input_cavity_phase(°)= -44.4418	Synch_phase(°)= -28.9893	Energy_gain(MeV)= 1.13739	Coef_k= 1.4
+#####	FIELD_MAP_CAV	Pos(m)= 13.9949	Length(m)= 0.25	Field(MV)= 1.98854	Input_cavity_phase(°)= 5.08631	Synch_phase(°)= -22.0224	Energy_gain(MeV)= 1.84376	Coef_k= 2
+#####	FIELD_MAP_CAV	Pos(m)= 14.6807	Length(m)= 0.25	Field(MV)= 1.88081	Input_cavity_phase(°)= 44.9941	Synch_phase(°)= -19.0161	Energy_gain(MeV)= 1.77834	Coef_k= 1.9
+#####	FIELD_MAP_CAV	Pos(m)= 15.3665	Length(m)= 0.25	Field(MV)= 1.91938	Input_cavity_phase(°)= 69.1677	Synch_phase(°)= -18.0004	Energy_gain(MeV)= 1.82544	Coef_k= 2
+#####	FIELD_MAP_CAV	Pos(m)= 16.0523	Length(m)= 0.25	Field(MV)= 1.84792	Input_cavity_phase(°)= 76.9496	Synch_phase(°)= -26.9882	Energy_gain(MeV)= 1.64651	Coef_k= 2

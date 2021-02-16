@@ -57,7 +57,7 @@ class LCLSMachineInterface(MachineInterface):
         self.config_dir = os.path.join(self.config_dir,
                                        "lcls")  # <ocelot>/parameters/lcls
         self._save_at_exit = False
-        self._use_num_points = True
+        self._use_num_points = True ## TODO: what does this mean
         self.read_only = False
 
         if 'epics' not in sys.modules:

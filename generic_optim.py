@@ -57,6 +57,8 @@ from mint import opt_objects as obj
 
 from mint.xfel.xfel_interface import *
 from mint.lcls.lcls_interface import *
+from mint.pip2.pip2_interface import *
+from mint.pip2.tracewin.pip2_simulator_interface import *
 from mint.spear.spear_interface import *
 from mint.aps.aps_interface import *
 from mint.bessy.bessy_interface import *
@@ -82,7 +84,8 @@ logger = logging.getLogger(__name__)
 
 AVAILABLE_MACHINE_INTERFACES = [XFELMachineInterface, LCLSMachineInterface, APSMachineInterface,
                                 TestMachineInterface, BESSYMachineInterface, MultinormalInterface, PETRAMachineInterface,
-                                DemoInterface, SPEARMachineInterface, FLASHMachineInterface]
+                                DemoInterface, SPEARMachineInterface, FLASHMachineInterface, PIPIIMachineInterface,
+                                PIPIISimulatorInterface]
 
 
 class OcelotInterfaceWindow(QFrame):
